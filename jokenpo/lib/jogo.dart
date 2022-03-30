@@ -56,7 +56,7 @@ class _HomeState extends State<Home> {
         });
       }else if(index == 1){
         setState(() {
-          _textUser= "você ganhou";
+          _textUser= "você ganhou ";
         });
       }else{
         setState(() {
